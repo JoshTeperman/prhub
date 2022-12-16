@@ -1,0 +1,5 @@
+variable :CLIENT_ID, :string
+variable :CLIENT_SECRET, :string
+variable :OAUTH_BASE_URL, :string
+variable :GITHUB_API_BASE_URL, :string
+variable :ENCRYPTION_KEY, :string
